@@ -1,0 +1,13 @@
+body{
+    background-color:rgb(245, 247, 250);
+}
+#img{
+height: 100%;
+}
+#box1{
+    background-color: rgb(236, 222, 203);
+}
+#place{
+    border-radius: 300px;
+    border:#674EA7 solid 3px;
+}
